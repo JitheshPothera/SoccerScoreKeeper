@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Soccer Score Keeper</string>
+    <string name="teamA_name">Team A</string>
+    <string name="teamB_name">Team B</string>
+    <string name="initial_score">0</string>
+    <string name="initial_cards_count">0</string>
+    <string name="yellow_cards_text_view_label">Yellow Cards</string>
+    <string name="red_cards_text_view_label">Red Cards</string>
+    <string name="goals_button_label">Goal</string>
+    <string name="yellow_cards_button_label">Yellow Card</string>
+    <string name="red_cards_button_label">Red Card</string>
+    <string name="reset_button_label">Reset</string>
+</resources>
